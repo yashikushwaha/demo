@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\college\VB\Assignment 2 forms\Assignment 2 forms\obj\x86\Debug\Assignment_2_forms.Form1.resources
+C:\Users\lenovo\Desktop\college\VB\Assignment 2 forms\Assignment 2 forms\obj\x86\Debug\Assignment_2_forms.Resources.resources
+C:\Users\lenovo\Desktop\college\VB\Assignment 2 forms\Assignment 2 forms\obj\x86\Debug\Assignment 2 forms.vbproj.GenerateResource.Cache
+D:\college\VB\Assignment 2 forms\Assignment 2 forms\obj\x86\Debug\Assignment_2_forms.Form1.resources
+D:\college\VB\Assignment 2 forms\Assignment 2 forms\obj\x86\Debug\Assignment_2_forms.Resources.resources
+D:\college\VB\Assignment 2 forms\Assignment 2 forms\obj\x86\Debug\Assignment 2 forms.vbproj.GenerateResource.Cache
